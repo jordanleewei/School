@@ -2,6 +2,8 @@ from turtle import Turtle, Screen, width
 import time
 from random import randrange
 
+##test
+
 score = 0
 
 # Screen setup
